@@ -1,0 +1,16 @@
+{
+  "name": "nodehub",
+  "version": "0.1.0",
+  "description": "nodehub dispatch requests from the listened port (80 by default) to the right node.js server based on the hostname of the request header",
+  "author": "kylekatarnls",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "extend": "^2.0.1",
+		"coffee-script": "^1.9.3",
+    "vhost": "^3.0.0",
+    "express": "^4.12.4"
+  }
+}

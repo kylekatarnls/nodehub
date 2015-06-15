@@ -1,0 +1,12 @@
+{
+  "hosts": [
+    {
+      "hostnames": [ "connect4" ],
+      "server": "D:\\Dossier personnel\\JS\\connect4\\server.js"
+    },
+    {
+      "hostnames": [ "wornet" ],
+      "server": "D:\\Dossier personnel\\NodeJS\\Wornet\\index.coffee"
+    }
+  ]
+}
